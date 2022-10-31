@@ -11,7 +11,7 @@ onde o primeiro projeto é excutado com sucesso e exibe na tela o valor de uma v
 
 ![image](https://user-images.githubusercontent.com/104734490/199039810-7a49f9c8-66dc-4060-a759-adfe5706c94f.png)
 
-Ainda falando do conceito Boxing/unboxing, o segundo projeto trata da hipótese de possíveis erros e como usar o conceito try/catch.
+Ainda falando do conceito Boxing/unboxing, o segundo projeto trata da hipótese de possíveis erros e como usar o conceito try/catch para exibir mensagens com Exception.
 
 ![image](https://user-images.githubusercontent.com/104734490/199040813-268ecfbc-ff09-4086-9e31-267b2e1f555e.png)
 
